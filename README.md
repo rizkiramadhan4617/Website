@@ -9,10 +9,18 @@
 <table>
   <tr>
     <td align="center"><a href="https://rr018.vercel.app"><img src="https://i.postimg.cc/dD4pjVSH/rizki.jpg" width="125px;" alt=""/><br /><sub><b>RR018</b></sub></a><br /><a href="#content-rizkiramadhan4617" title="Content"></a></td>
-</tr>
-[!RR018]
+<table>
+
+  <tr>
+
     <td align="center"><a href="https://rr018.vercel.app"><img src="https://i.postimg.cc/dD4pjVSH/rizki.jpg" width="125px;" alt=""/><br /><sub><b>RR018</b></sub></a><br /><a href="#content-rizkiramadhan4617" title="Content"></a></td>
+
 </tr>
+
+</table>
+</tr>
+
+
 </table>
 </details>
 
