@@ -10,8 +10,8 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://rr018.vercel.app"><img src="https://i.postimg.cc/dD4pjVSH/rizki.jpg" width="110px;" alt=""/><br /><sub><b>RR018</b></sub></a><br /><a href="#content-rizkiramadhan4617" title="Content"></a></td>
-    <td align="center"><a href="https://rr018.vercel.app"><img src="https://i.postimg.cc/dD4pjVSH/rizki.jpg" width="110px;" alt=""/><br /><sub><b>RR018</b></sub></a><br /><a href="#content-rizkiramadhan4617" title="Content"></a></td>
+    <td align="center"><a href="https://rr018.vercel.app"><img src="https://i.postimg.cc/dD4pjVSH/rizki.jpg" width="115px;" alt=""/><br /><sub><b>RR018</b></sub></a><br /><a href="#content-rizkiramadhan4617" title="Content"></a></td>
+    <td align="center"><a href="https://rr018.vercel.app"><img src="https://i.postimg.cc/dD4pjVSH/rizki.jpg" width="115px;" alt=""/><br /><sub><b>RR018</b></sub></a><br /><a href="#content-rizkiramadhan4617" title="Content"></a></td>
 </table>
 </tr>
 </details>
