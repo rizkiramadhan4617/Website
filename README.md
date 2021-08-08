@@ -4,7 +4,7 @@
 
 <details>
 <summary>
-  Contributor
+ Contributor
 </summary>
 <table>
   <tr>
