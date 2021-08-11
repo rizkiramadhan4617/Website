@@ -2,10 +2,7 @@
 <img src="https://i.postimg.cc/PfZgJtKQ/24b299166bade74f279fec65acb9b78f-1.jpg" width="890" height="420"/>
 </p>
 
-## X Tkj 1
-```Sebuah Reposit Website Xtkj 
-Made with By -
-```
+
 
 
 <details>
