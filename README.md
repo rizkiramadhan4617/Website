@@ -28,8 +28,9 @@ Made with By -
 
 <table>
   <tr>
-    -[Saweria](https://saweria.co/RR018)
-    -[Pulsa](https://Wa.me/6285788555058)
+ -[Saweria](https://saweria.co/RR018)
+
+ -[Pulsa](https://Wa.me/6285788555058)
 </table>
 </tr>
 </details>
