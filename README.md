@@ -28,7 +28,7 @@
 
  - [Saweria](https://saweria.co/RR018)
 
- - [Pulsa](https://Wa.me/6285788555068)
+ - [Pulsa](https://api.whatsapp.com/send?phone=+6285788555068&text=Pulsa=085788555068)
 </table>
 </tr>
 </details>
